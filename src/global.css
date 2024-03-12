@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;700;900&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-public-sans: "Public Sans";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-sm: 14px;
+  --font-size-17xl: 36px;
+  --font-size-3xl: 22px;
+  --font-size-10xl: 29px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-mintcream-100: #e8f2ed;
+  --color-seagreen: #4f966e;
+  --color-gray: #0d1c12;
+  --color-gainsboro: #e6e8eb;
+
+  /* Gaps */
+  --gap-6xs-5: 6.5px;
+  --gap-0: 0px;
+  --gap-base: 16px;
+  --gap-xl: 20px;
+
+  /* Paddings */
+  --padding-5xl: 24px;
+  --padding-base: 16px;
+  --padding-3xs-5: 9.5px;
+  --padding-xs: 12px;
+  --padding-5xs: 8px;
+  --padding-68xl: 87px;
+  --padding-xl: 20px;
+  --padding-8xs: 5px;
+  --padding-11xs-5: 1.5px;
+  --padding-smi-5: 12.5px;
+  --padding-21xl: 40px;
+  --padding-275xl-4: 294.4px;
+  --padding-54xl: 73px;
+  --padding-128xl: 147px;
+  --padding-3xs: 10px;
+  --padding-4xs-8: 8.8px;
+
+  /* Border radiuses */
+  --br-xs: 12px;
+  --br-5xs: 8px;
+  --br-xl: 20px;
+}
